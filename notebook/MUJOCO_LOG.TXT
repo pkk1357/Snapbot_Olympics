@@ -61,6 +61,7 @@ WARNING: Insufficient arena memory for the number of constraints generated. Incr
 Fri May 16 21:44:30 2025
 WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
 
+<<<<<<< HEAD
 Tue Jun 10 05:02:45 2025
 WARNING: mju_openResource: unknown file 'c:\Users\박경국\Desktop\KU-DATA403-simulator-tutorials-master\asset\object\floor_isaac_style.xml'
 
@@ -73,3 +74,17 @@ WARNING: Insufficient arena memory for the number of constraints generated. Incr
 Tue Jun 10 19:23:45 2025
 WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
 
+=======
+Tue Jun 10 05:02:45 2025
+WARNING: mju_openResource: unknown file 'c:\Users\박경국\Desktop\KU-DATA403-simulator-tutorials-master\asset\object\floor_isaac_style.xml'
+
+Tue Jun 10 05:19:01 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+
+Tue Jun 10 19:23:41 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+
+Tue Jun 10 19:23:45 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+
+>>>>>>> a76c9ea (Initial commit)
